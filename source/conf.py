@@ -1,5 +1,5 @@
 
-project = 'Analiza podataka o zdravim navikama'
+project = 'Анализа и визуелизација података'
 copyright = '2025, Fondacija Petlja'
 author = 'Fondacija Petlja'
 
