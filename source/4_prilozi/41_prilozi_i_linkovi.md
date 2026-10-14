@@ -1,37 +1,35 @@
-# Питања за ученике о сарадњи током израде задатка
+# Preguntes per als alumnes sobre la col·laboració durant la realització de la tasca
 
-Приликом обављања сложених задатака добро је да проверимо како смо се снашли у групном раду и како је група у целини функционисала. Предлажемо да сваки члан групе за себе оцени групни рад и свој допринос, а да онда своје оцене и утиске размените у петоминутној дискусији.  
+En realitzar tasques complexes, és bo comprovar com ens n'hem sortit treballant en grup i com ha funcionat el grup en general. Proposem que cada membre del grup avaluï per separat el treball del grup i la seva contribució individual, i que després compartiu les vostres valoracions i impressions en un debat de cinc minuts.
 
-## Функционисање групе (1–5)
+## Funcionament del grup (1–5)
 
-*(1 – уопште се не слажем | 5 – у потпуности се слажем)*
+*(1 – no hi estic gens d'acord | 5 – hi estic completament d'acord)*
 
-✔️ Сви чланови групе су активно учествовали у задатку  
-✔️ Слушали смо једни друге и поштовали свачије идеје  
-✔️ Одговорности смо поделили равноправно  
-✔️ Одлуке смо доносили заједно као тим  
-✔️ Пружали смо подршку једни другима када је некоме била потребна помоћ  
+✔️ Tots els membres del grup han participat activament en la tasca  
+✔️ Ens hem escoltat els uns als altres i hem respectat les idees de cadascú  
+✔️ Hem repartit les responsabilitats de manera equitativa  
+✔️ Hem pres les decisions conjuntament com a equip  
+✔️ Ens hem donat suport mútuament quan algú necessitava ajuda  
 
-## Моје учешће - питања за ученике (1–5)
+## La meva participació - preguntes per als alumnes (1–5)
 
-*(1 – уопште се не слажем | 5 – у потпуности се слажем)*
+*(1 – no hi estic gens d'acord | 5 – hi estic completament d'acord)*
 
-✔️ Износио/износила сам своје идеје и мишљење  
-✔️ Учествовао/учествовала сам у изради пивот табела  
-✔️ Учествовао/учествовала сам у изради графикона  
-✔️ Учествовао/учествовала сам у припреми закључака  
-✔️ Учествовао/учествовала сам у презентацији наше групе  
+✔️ He expressat les meves idees i opinions  
+✔️ He participat en l'elaboració de les taules dinàmiques  
+✔️ He participat en l'elaboració dels gràfics  
+✔️ He participat en la preparació de les conclusions  
+✔️ He participat en la presentació del nostre grup  
 
-## Наставничка процена рада групе
+## Avaluació del treball del grup per part del professor
 
-Препоручујемо да оцене које сте разменили у групи на крају размените и са наставником. Једино тако ће сви имати реалистичну слику о раду групе и доприносу сваког појединца. 
+Recomanem que les valoracions que heu compartit en el grup les compartiu finalment també amb el professor. Només d'aquesta manera tots tindran una visió realista del treball del grup i de la contribució de cada membre.
 
-Чек-листа за наставнике о сарадњи током израде задатка 
+Llista de verificació per als professors sobre la col·laboració durant la realització de la tasca
 
-✔️ сви ученици имају улогу  
-✔️ постоји договор унутар групе  
-✔️ ученици образлажу своје одлуке  
-✔️ помажу једни другима  
-✔️ равномерно користе дигитални алат
-
-
+✔️ tots els alumnes tenen un rol  
+✔️ hi ha un consens dins del grup  
+✔️ els alumnes argumenten les seves decisions  
+✔️ s'ajuden els uns als altres  
+✔️ utilitzen l'eina digital de manera equitativa
