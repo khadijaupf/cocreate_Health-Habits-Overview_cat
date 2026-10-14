@@ -1,38 +1,40 @@
-# Креативни задатак - дизајнирајте кампању!
+# Tasca creativa - dissenyeu una campanya!
 
 
-## Опис задатка
+## Descripció de la tasca
 
-Наш предлог је да спроведете анкету, било уживо или онлајн задавањем, на пример преко Google forms (предлог питања је у прилогу на крају курса), али за ову вежбу можете користити и било коју већ постојећу базу података. 
+La nostra proposta és que realitzeu una enquesta, ja sigui en persona o en línia, per exemple mitjançant Google Forms (la proposta de preguntes es troba a l'annex al final del curs), però per a aquest exercici també podeu fer servir qualsevol base de dades ja existent.
 
-Дакле, идеално након спроведене анкете о здравим навикама ученика и анализе прикупљених података, ваш задатак је да и Поделите се у групе од 4-5 ученика и заједно: 1) прво анализирате податке, а 2) потом изаберете један резултат и прикажете га кроз креативну кампању, попут оне коју би Министарство здравља или нека локална организација могли креирати.
+Per tant, idealment, una vegada realitzada una enquesta sobre els hàbits saludables dels alumnes i analitzades les dades recollides, la vostra tasca és organitzar-vos en grups de 4–5 alumnes. Conjuntament haureu de: 1) primer analitzar les dades i 2) a continuació triar un resultat i presentar-lo a través d'una campanya creativa, com la que podria crear el Ministeri de Salut o alguna organització local.
 
-- Анализирајте податке применом пивот табела и графика и издвојте једну или више чињеница које сматрате значајним
-- Осмислите слоган (кратак, јасан, позитиван)
-- Направите инфографику (и пропратни текст по потреби)
-- Презентујте резултат (презентацију, постер, видео) одељењу
+- Analitzeu les dades aplicant taules dinàmiques i gràfics i destaqueu un o més fets que considereu significatius
+- Creeu un eslògan (curt, clar, positiu)
+- Elaboreu una infografia (i text acompanyant si cal)
+- Presenteu el resultat (presentació, pòster, vídeo) a la classe
 
-![Kampanja](kampanja.png)
+![Campanya](kampanja.png)
 
 ```{infonote}
-Подсетник за добру сарадњу у групи
+Recordatori per a una bona col·laboració en grup
 
-- Слушамо једни друге, стрпљиво и без надгласавања.
-- Свако треба да конструктивно изнесе своје мишљење и допринесе раду групе.
-- Делимо задатке договором, у складу са интересовањима и знањима.
-- Одлуке доносимо заједно, кроз дискусију, без наметања ичијег мишљења.
-- Помажемо једни другима око задатака.
+- Ens escoltem els uns als altres, amb paciència i sense interrompre'ns.
+- Tothom ha d'exposar la seva opinió de manera constructiva i contribuir al treball del grup.
+- Repartim les tasques de comú acord, tenint en compte els interessos i els coneixements.
+- Prenem les decisions conjuntament, a través del diàleg, sense imposar opinions.
+- Ens ajudem els uns als altres amb les tasques.
 ```
 
-## Савети за добар визуелни приказ података (инфографику)
-- Боје: 2–3 максимално (црвена, зелена, плава/сива)
-- Типографија: слоган највећи, бројеви средње величине, објашњење најмање
-- График: увек укључити пивот график
-- Позив на акцију: конкретан корак
+## Consells per a una bona representació visual de dades (infografia)
+- Colors: 2–3 com a màxim (vermell, verd, blau/gris)
+- Tipografia: l'eslògan, amb la mida més gran; les xifres, amb una mida mitjana, i l'explicació, amb la mida més petita.
+- Gràfic: incloure sempre un gràfic dinàmic
+- Crida a l'acció: un pas concret
 
-## Критеријуми оцењивања креативног задатка
-- Тачност података – 40 бодова
-- Јасноћа поруке – 20 бодова
-- Креативност слогана – 15 бодова
-- Визуелни дизајн – 15 бодова
-- Презентација – 10 бодова
+## Criteris d'avaluació de la tasca creativa
+- Exactitud de les dades – 40 punts
+- Claredat del missatge – 20 punts
+- Creativitat de l'eslògan – 15 punts
+- Disseny visual – 15 punts
+- Presentació – 10 punts
+
+
