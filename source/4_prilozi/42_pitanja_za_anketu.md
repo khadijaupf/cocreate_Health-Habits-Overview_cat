@@ -1,32 +1,30 @@
-# Предлози питања за анкету о здравим навикама 
+# Propostes de preguntes per a l'enquesta sobre hàbits saludables
 
-(**НАПОМЕНА: Анкета мора бити потпуно АНОНИМНА!**)
+(**NOTA: L'enquesta ha de ser completament ANÒNIMA!**)
 
-- Пол
-- Који си разред?
-- Колико сати у просеку спаваш у току ноћи?
-- Колико се одморно осећаш у току дана? (1-5)
-- Колико времена дневно користиш телефон?
-- Колико сати укупно проведеш гледајући у екран током дана? (ТВ + рачунар + телефон, унеси број сати)
-- Када најчешће користиш телефон?
-- За шта најчешће користиш телефон?
-- Да ли се бавиш спортом / редовно вежбаш? (да/не)
-- Ако вежбаш, колико сати? (унеси број сати у току недеље)
-- Колико често возиш бицикл? (унеси број пута у току недеље)
-- Колико се дневно крећеш? (унеси број минута)
-- Да ли редовно доручкујеш? (да/не)
-- Колико порција воћа у просеку поједеш у току недеље? (унеси број)
-- Колико често једеш слаткише или грицкалице? (унеси број пута у току недеље)
-- Колико воде попијеш дневно? (у литрама)
-- Колико се често се у току дана смејеш? (1-5)
-- Како би оценио/оценила своје најчешће расположење? (1-5)
-- Колико често се виђаш са другарима изван школе? (1-5)
-- Колико пута недељно проведеш више од пола сата у природи?
-- Коју би навику највише волео/волела да побољшаш?
-- Колико важним сматраш за здрав и квалитетнији живот [довољно сна]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [мање времена на телефону]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [здрава исхрана]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [редовна физичка активност]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [добро расположење]? (1-5)
-
-
+- Gènere
+- Quin curs estudies?
+- Quantes hores dormes de mitjana durant la nit?
+- Com de descansat/da et sents durant el dia? (1-5)
+- Quant de temps al dia fas servir el telèfon?
+- Quantes hores en total passes mirant una pantalla durant el dia? (TV + ordinador + telèfon, introdueix el nombre d'hores)
+- Quan fas servir el telèfon més sovint?
+- Per a què fas servir el telèfon més sovint?
+- Practiques algun esport / fas exercici regularment? (sí/no)
+- Si fas exercici, quantes hores? (si has respost no, omete aquesta pregunta o introdueix 0; si has respost sí, introdueix el nombre d'hores setmanals)
+- Amb quina freqüència fas servir la bicicleta? (introdueix el nombre de vegades durant la setmana)
+- Quant de temps camines o et mous al dia? (introdueix el nombre de minuts)
+- Esmorzes regularment? (sí/no)
+- Quantes racions de fruita menges de mitjana durant la setmana? (introdueix el nombre)
+- Amb quina freqüència menges dolços o aperitius? (introdueix el nombre de vegades durant la setmana)
+- Quanta aigua beus al dia? (en litres)
+- Amb quina freqüència rius durant el dia? (1-5)
+- Com valoraries el teu estat d'ànim habitual? (1-5)
+- Amb quina freqüència et veus amb amics fora de l'escola? (1-5)
+- Quantes vegades a la setmana passes més de mitja hora a la natura?
+- Quin hàbit t'agradaria millorar més?
+- Quina importància li dones per a una vida sana i de qualitat [dormir prou]? (1-5)
+- Quina importància li dones per a una vida sana i de qualitat [menys temps al telèfon]? (1-5)
+- Quina importància li dones per a una vida sana i de qualitat [alimentació saludable]? (1-5)
+- Quina importància li dones per a una vida sana i de qualitat [activitat física regular]? (1-5)
+- Quina importància li dones per a una vida sana i de qualitat [bon estat d'ànim]? (1-5)
